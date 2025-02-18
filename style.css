@@ -1,0 +1,15 @@
+/* anytime you add padding to any 
+element  will stretch the page , this 
+will prevent  this from happening 
+ */
+html {
+  box-sizing: border-box;
+}
+
+/* next the body */ 
+body {
+  margin: 0;
+  /* full height of the entire window that 
+  you're in */
+  min-height: 100vh;
+}
