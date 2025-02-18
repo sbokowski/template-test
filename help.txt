@@ -1,1 +1,42 @@
-Git hub - dev tools
+Git hub - dev tools - console.log is going to show
+up in our dev tool . 
+    Dev tools
+
+Console tab , Network tab
+Network tab shows index.html
+show all info about the page
+and the Application tab 
+
+ - we can test out background color, on our body
+this means our console log is working
+We will alson learn about the Network tab 
+
+
+1. Create a new repository on github  
+go to drop down menu 
+create reopository name
+template-test  , that all,  press 
+create repository button
+
+2. copy https: // code in 
+https://github.com/sbokowski/template-test.git
+
+2. Jump back to our code 
+ 
+   Git add repository :
+   % git init 
+   % git remote add origin name_of_file_Link
+   then 
+   % git add .
+   then
+   % git commit -m 'initial commit'
+   then 
+   % git push origin master
+   First you have to be in your 
+   directory .
+   3. Once your files are  on git ,
+    edit them , save,  do some
+    commands 
+     press 
+    template% git add .
+    template% git commit -m 
