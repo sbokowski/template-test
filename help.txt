@@ -19,7 +19,7 @@ template-test  , that all,  press
 create repository button
 
 2. copy https: // code in 
-https://github.com/sbokowski/template-test.git
+
 
 2. Jump back to our code 
  
@@ -27,7 +27,7 @@ https://github.com/sbokowski/template-test.git
    % git init 
    % git remote add origin name_of_file_Link
    then 
-   % git add .
+   % git add .g
    then
    % git commit -m 'initial commit'
    then 
