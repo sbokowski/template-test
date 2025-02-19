@@ -20,14 +20,19 @@ create repository button
 
 2. copy https: // code in 
 
+2 a. Remember to say correct branch checkout
 
 2. Jump back to our code 
  
+  link save - 
+  https://github.com/sbokowski/template-3.git
+
    Git add repository :
    % git init 
    % git remote add origin name_of_file_Link
    then 
-   % git add .g
+   % git add .
+   
    then
    % git commit -m 'initial commit'
    then 
